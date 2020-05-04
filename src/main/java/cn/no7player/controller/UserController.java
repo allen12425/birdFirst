@@ -9,7 +9,7 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.ResponseBody;
 
 /**
- * Created by zl on 2015/8/27.
+ * Created by
  */
 @Controller
 public class UserController {
