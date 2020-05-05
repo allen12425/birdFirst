@@ -5,11 +5,13 @@ import cn.no7player.model.User;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
+import javax.naming.Name;
+
 /**
  * Created by zl on 2015/8/27.
  */
 
-@Service
+@Service("userService")
 public class UserService {
 
     @Autowired
